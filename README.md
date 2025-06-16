@@ -42,6 +42,8 @@ This is an interactive Streamlit app for analyzing over 120 years of Olympic Gam
 
 ---
 ## 🗂️ Project Structure
+
+```text
 📦 olympics-analysis/
 ┣ 📄 olympics_app.py # Main Streamlit app
 ┣ 📄 preprocessor.py # Data cleaning module
@@ -51,6 +53,7 @@ This is an interactive Streamlit app for analyzing over 120 years of Olympic Gam
 ┃ ┗ 📄 noc_regions.csv
 ┣ 📄 requirements.txt
 ┗ 📄 README.md
+```
 ---
 ## 📦 requirements.txt
 

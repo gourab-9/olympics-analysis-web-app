@@ -84,3 +84,5 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run olympics_app.py
+```
+![image](https://github.com/user-attachments/assets/0bb148a7-4bd5-43ad-a140-5ef50e8d6d9e)
